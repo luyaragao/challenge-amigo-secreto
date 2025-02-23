@@ -9,7 +9,7 @@ Esse projeto é uma aplicação de Amigo Secreto, onde você pode adicionar amig
 - Sortear um amigo aleatório
 
 ## como usar?
-1. Acesse a página do projeto [aqui](link_do_projeto).
+1. Acesse a página do projeto [aqui](https://luyaragao.github.io/challenge-amigo-secreto/).
 2. Insira o nome de um amigo na caixa de entrada e clique em "Adicionar Amigo".
 3. A lista dos amigos adicionados irá aparecer abaixo. Para sortear um amigo aleatório, clique em "Sortear".
 
